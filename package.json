@@ -1,0 +1,24 @@
+{
+  "name": "performant-ascii-effect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@tweakpane/core": "^2.0.3",
+    "vite": "^5.0.6"
+  },
+  "dependencies": {
+    "@types/three": "^0.160.0",
+    "three": "^0.160.0",
+    "tweakpane": "^4.0.3",
+    "typescript": "^5.3.3"
+  }
+}
